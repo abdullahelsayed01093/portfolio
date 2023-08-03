@@ -9,21 +9,45 @@ margin: 0px;
     background-color: bisque;
 }
 
-#hd {
-    width: 100vw;
-    height: 10vh;
-    background-color: darkolivegreen;
-    
-}
-#mm {
+#mn {
     width: 100vw;
     height: 80vh;
-    background-color: beige;
+    background-color: teal;
     
 }
 #ft {
     width: 100vw;
     height: 10vh;
-    background-color: teal;
+    background-color: blue;
     
 }
+
+.hd-sec {
+    border: 1px solid #000;
+}
+
+/*-------------------------header----------*/
+#hd {
+    width: 100vw;
+    height: 10vh;
+    background-color: darkolivegreen;
+    display: flex;
+}
+
+#hd-1 {
+    /* width: 20vw;
+    height: 10px; */
+    flex: 3;
+
+}
+#hd-2 {
+    /* width: 50vw;
+    height: 10px; */
+    flex: 5;
+}
+#hd-3 {
+    /* width: 30vw;
+    height: 10px; */
+    flex: 3;
+}
+/*---------------------main----------------------*/
