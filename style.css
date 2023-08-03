@@ -5,19 +5,19 @@ margin: 0px;
 
 #big-box {
     width: 100vw;
-    height: 10vh;
+    height: 100vh;
     background-color: bisque;
 }
 
 #hd {
     width: 100vw;
-    height: 80vh;
+    height: 10vh;
     background-color: darkolivegreen;
     
 }
 #mm {
     width: 100vw;
-    height: 10vh;
+    height: 80vh;
     background-color: beige;
     
 }
